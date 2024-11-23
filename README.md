@@ -4,4 +4,4 @@
 - 🌱 **I’m currently learning:** Python, Java, and C++.  
 - 💞️ **I’m looking to collaborate on:** Open-source projects.  
 - 📫 **How to reach me:** [dragosrudencu24@gmail.com](mailto:dragosrudencu24@gmail.com)  
-- ⚡ **Fun fact:** I like squirrels.
+- ⚡ **Fun fact:** I like cheetahs.
