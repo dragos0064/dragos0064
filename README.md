@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @dragos0064  
-
+![Profile Views](https://komarev.com/ghpvc/?username=dragos0064&color=lightgrey)
 - 👀 **I’m interested in:** Coding, reading, and sports.  
 - 🌱 **I’m currently learning:** Python, Java, and C++.  
 - 💞️ **I’m looking to collaborate on:** Open-source projects.  
