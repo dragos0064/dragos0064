@@ -1,7 +1,6 @@
 ##  Hi, I’m Dragos 👋
 📍Computer Science Student at ASE Bucharest<br/>
 🔎I study and exercise ML and AI to stay consistent<br/>
-📸I create social media videos teaching students how to use AI Tools on [Tiktok](https://www.tiktok.com/@dragos_rd?_t=ZN-8w9Q1acRmbO&_r=1) <br/>
 📫 How to reach me: [dragosrudencu24@gmail.com](mailto:dragosrudencu24@gmail.com)  <br/>
 
 
